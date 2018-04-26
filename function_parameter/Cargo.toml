@@ -1,0 +1,6 @@
+[package]
+name = "function_parameter"
+version = "0.1.0"
+authors = ["JulianLinares <julis1997lg@gmail.com>"]
+
+[dependencies]
